@@ -3,9 +3,9 @@
  * main - Entry point
  *
  * Return: Always 0 (Success)
- * 
- *printing the alphabet 
-*/
+ *
+ *printing the alphabet
+ */
 int main(void)
 {
 	char c;
