@@ -1,6 +1,11 @@
 #include <stdio.h>
-/*main- entry point of the program*/
-/* printing the alphabet */
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ * 
+ *printing the alphabet 
+*/
 int main(void)
 {
 	char c;
