@@ -3,10 +3,10 @@
 
 /**
  * keygen print a valid key for the username
-  * Return: key of the username
-   **/
+ * Return: key of the username
+ **/
 
-   int main()
-   {
-     return (key);
-     }
+int main()
+{
+  return (key);
+}
