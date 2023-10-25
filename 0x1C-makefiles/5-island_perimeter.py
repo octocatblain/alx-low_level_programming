@@ -2,8 +2,9 @@
 """Defines an island perimeter measuring function."""
 
 
-def island_perimeter(grid):  # sourcery skip: use-itertools-product
-    """Return the perimeter of an island.
+def island_perimeter(grid):
+    """
+    Return the perimeter of an island.
     The grid represents water by 0 and land by 1.
     Args:
         grid (list): A list of list of integers representing an island.
